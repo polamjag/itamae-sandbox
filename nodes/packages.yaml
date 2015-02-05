@@ -1,0 +1,28 @@
+apt:
+  - build-essential
+  - tmux
+  - zsh
+  - vim
+  - ctags
+  - htop
+  - mtr-tiny
+  - dstat
+  - ruby
+  - ruby-dev
+  - mosh
+  - dnsutils
+  - w3m
+pacman:
+  - tmux
+  - zsh
+  - vim
+  - ctags
+  - strace
+  - lsof
+  - htop
+  - mtr
+  - dstat
+  - ruby
+  - mosh
+  - dnsutils
+  - w3m
