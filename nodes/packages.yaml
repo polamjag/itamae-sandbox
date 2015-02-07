@@ -5,12 +5,14 @@ apt:
   - vim
   - ctags
   - htop
+  - lsof
   - mtr-tiny
   - dstat
   - ruby
   - ruby-dev
   - mosh
   - dnsutils
+  - ipcalc
   - w3m
 pacman:
   - tmux
@@ -25,4 +27,5 @@ pacman:
   - ruby
   - mosh
   - dnsutils
+  - ipcalc
   - w3m
