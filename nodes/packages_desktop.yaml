@@ -26,6 +26,12 @@ pacman:
   - libreoffice-fresh-ja
   - wireshark-gtk
   - guake
+  - texlive-most
+  - texlive-langjapanese
+  - adobe-source-han-sans
+  - adobe-source-sans-pro-fonts
   - xfce4-weather-plugin
   - xfce4-whiskermenu-plugin
   - xfce4-genmon-plugin
+  - gvfs-mtp
+  - gvfs-smb
