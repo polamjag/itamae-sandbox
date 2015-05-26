@@ -3,6 +3,8 @@ apt:
   - tmux
   - zsh
   - vim
+  - git
+  - curl
   - ctags
   - htop
   - lsof
@@ -18,6 +20,8 @@ pacman:
   - tmux
   - zsh
   - vim
+  - git
+  - curl
   - ctags
   - strace
   - lsof
